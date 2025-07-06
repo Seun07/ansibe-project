@@ -9,4 +9,4 @@
   - name: stop nginx service
     service:
       name: nginx
-      state: stop
+      state: stopped
